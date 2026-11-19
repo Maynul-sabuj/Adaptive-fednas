@@ -140,29 +140,7 @@ The privacy layer provides gradient clipping, Gaussian noise, simulated pairwise
 - The trust score measures only a client's self-consistency across rounds; it does not compare clients against each other and would not detect a consistently malicious client (cross-client outlier detection is future work).
 - Experiments use three image datasets, small CNNs, and simulated clients; larger-scale and real-device deployment remain to be evaluated.
 
-## Citation
 
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{muna2026adaptivefl,
-  title     = {Adaptive Federated Learning with NAS and Dynamic Clustering},
-  author    = {Muna, M. Y. and others},
-  booktitle = {International Conference on Artificial Intelligence and ... (ICAIN)},
-  year      = {2026}
-}
-```
-
-> Update the entry with the final author list, venue, pages, and DOI once published.
-
-## Authors
-
-Final Year Design Project (FYDP), Dept. of CSE, United International University (UIU).
-
-- M. Y. Muna
-- *(add co-authors: full names and roles)*
-
-**Supervisor:** *(add supervisor name)*
 
 ## License
 
